@@ -1,0 +1,24 @@
+input {
+     width: 150px;
+     padding: 9px;
+     font-size: medium;
+   }
+   .redondeado {
+     border-radius: 5px;
+   }
+   .sinborde {
+     border: 0;
+   }
+table{
+    color: #45A98E;
+    width: 60%;
+    height: 230px;
+    BORDER:DASHED 6PX LIME;
+   }
+label{
+    font-size: x-large;
+    color: white;
+   }
+img{
+    width: 450px;
+   }

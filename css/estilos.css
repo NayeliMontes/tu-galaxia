@@ -1,0 +1,25 @@
+body{
+  background: #ECEFF1;
+}
+input {
+     width: 200px;
+     padding: 3px;
+   }
+   .redondeado {
+     border-radius: 5px;
+   }
+   .sinborde {
+     border: 0;
+   }
+   table{
+    color: #45A98E;
+    width: 40%;
+    height: 200px;
+    BORDER:RIDGE 2PX LIME;
+   }
+   label{
+    color: black;
+   }
+   img{
+    width: 100px;
+   }
